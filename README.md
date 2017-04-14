@@ -1,5 +1,15 @@
 # BabyPhone Enclosure
 
+## Hardware
+The upper assembled side looks as followed:
+![alt tag](https://github.com/bachmmmar/babyPhoneEnclosure/blob/master/photo/camera_side.jpg)
+
+The Bottom side contains the Ethernet interface, RPI and powersupply and looks as followed:
+![alt tag](https://github.com/bachmmmar/babyPhoneEnclosure/blob/master/photo/rpi_side.jpg)
+
+And all together
+![alt tag](https://github.com/bachmmmar/babyPhoneEnclosure/blob/master/photo/together.jpg)
+
 ## Components
 This enclosure is designed to contain:
 - a Raspberry Pi B+ or higher
